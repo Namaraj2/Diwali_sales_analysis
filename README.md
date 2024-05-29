@@ -1,4 +1,4 @@
-# Diwali_sales_analysis
+# Diwali_sales_analysis using python
 ## Project Description
 In this project, we performed a comprehensive data analysis to:
 - Improve customer experience by identifying potential customers based on various demographics.
