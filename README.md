@@ -1,6 +1,6 @@
 # Diwali_sales_analysis using python
 ## Project Description
-In this project, we performed a comprehensive data analysis to:
+In this project, I performed a comprehensive data analysis to:
 - Improve customer experience by identifying potential customers based on various demographics.
 - Increase sales by pinpointing the most selling product categories and products, which assists in inventory planning to meet demand effectively.
   
